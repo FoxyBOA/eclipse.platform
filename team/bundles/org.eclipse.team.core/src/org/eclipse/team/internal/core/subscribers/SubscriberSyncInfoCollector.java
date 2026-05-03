@@ -34,7 +34,7 @@ import org.eclipse.team.internal.core.Policy;
  * </p>
  * @since 3.0
  */
-public final class SubscriberSyncInfoCollector extends SubscriberResourceCollector {
+public class SubscriberSyncInfoCollector extends SubscriberResourceCollector {
 
 	private final SyncSetInputFromSubscriber subscriberInput;
 	private SyncSetInputFromSyncSet filteredInput;
